@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vznqx.github.io/sitemap.xml
