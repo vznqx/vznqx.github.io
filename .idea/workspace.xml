@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b9bc7a-7351-4132-a0d0-cd0e9e5a7197" name="更改" comment="">
+    <list default="true" id="32b9bc7a-7351-4132-a0d0-cd0e9e5a7197" name="更改" comment="add header">
       <change beforePath="$PROJECT_DIR$/.idea/AugmentWebviewStateStore.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AugmentWebviewStateStore.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vznqx"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vznqx/vznqx.github.io.git",
+    "accountId": "4df969b9-fe6a-49f6-9124-c260ad9f761b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -68,11 +80,26 @@
       <updated>1775551026938</updated>
       <workItem from="1775551028027" duration="175000" />
       <workItem from="1775551213019" duration="5096000" />
-      <workItem from="1775719507804" duration="1251000" />
+      <workItem from="1775719507804" duration="3942000" />
     </task>
+    <task id="LOCAL-00001" summary="add header">
+      <option name="closed" value="true" />
+      <created>1775724278538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775724278538</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Medium link to all pages, standardize social block to 4 channels (FB/Twitter/YouTube/Medium)" />
+    <MESSAGE value="a" />
+    <MESSAGE value="add header" />
+    <option name="LAST_COMMIT_MESSAGE" value="add header" />
   </component>
 </project>
